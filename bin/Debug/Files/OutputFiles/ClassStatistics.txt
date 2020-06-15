@@ -1,0 +1,11 @@
+   -- GRADE STATISTICS OF THE CLASS --
+
+Total AA: 2	Percentage Of AA: 18,18182
+Total BA: 1	Percentage Of BA: 9,090909
+Total BB: 1	Percentage Of BB: 9,090909
+Total CB: 1	Percentage Of CB: 9,090909
+Total CC: 2	Percentage Of CC: 18,18182
+Total DC: 2	Percentage Of DC: 18,18182
+Total DD: 1	Percentage Of DD: 9,090909
+Total FD: 0	Percentage Of FD: 0
+Total FF: 1	Percentage Of FF: 9,090909
